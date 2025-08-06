@@ -1,0 +1,1001 @@
+ BedRooms ,Bath rooms,Size_sqft,location,year built,Garage Available,Furnishing,House Condition,Has_Pool,Lot Size,Price($)
+3,1,1149,Rural,2004,,Unfurnished,new,0,0.15,244043
+,2,1169,Rural,1989,1,,Old,0,0.23,211250
+4,3,1409,Suburban,1993,1,Unfurnished,gd,0,0.19,257239
+3,3,1647,Suburban,2021,0,,new,0,0.27,310316
+2,3,1865,Urban,2009,0,furnised,old,1,0.39,334791
+2,2,1179,ruraal,2020,,Semi furnished,Old,0,0.32,228260
+1,2,2097,Suburban,2004,0,Semi-Furnished,new,0,0.33,361672
+5,3,1392,Suburban,1993,1,Semi furnished,new,0,0.12,259003
+3,1,1491,Rural,2014,0,Furnished,old,0,0.01,263096
+4,2,1201,ruraal,2013,0,Semi-Furnished,gd,0,0.13,242759
+1,1,530,sub-urban,1989,0,Unfurnished,Old,0,0.16,107493
+,,1854,Urban,2014,1,furnised,New,1,0.38,342831
+4,4,1795,Suburban,1990,,furnised,Good,0,0.12,319749
+2,1,1387,ruraal,1990,0,Unfurnished,gd,0,0.35,258014
+2,3,1527,ruraal,2000,0,Furnished,Old,1,0.13,281804
+2,4,1706,Urban,2000,0,Unfurnished,new,0,0.07,311908
+2,1,875,ruraal,2001,1,,Old,1,0.08,172999
+3,2,1288,ruraal,1986,1,Furnished,Good,0,0.59,233692
+3,4,1818,ruraal,1996,1,Semi-Furnished,old,1,0.13,335365
+2,1,998,Suburban,1981,1,Unfurnished,Good,0,0.35,203836
+3,2,1617,Urban,1991,1,Furnished,New,1,0.02,294600
+2,1,957,ruraal,2021,0,Semi-Furnished,New,1,0.46,218645
+2,4,1687,ruraal,1997,,Unfurnished,Good,0,0.3,310738
+3,,1486,Suburban,1990,0,furnised,gd,0,0.29,266638
+3,4,854,Urban,1995,0,Unfurnished,gd,1,0.31,183563
+4,2,1966,Rural,1997,1,Semi furnished,new,0,0.33,364615
+2,3,1206,Suburban,2014,1,Unfurnished,New,0,0.37,236943
+3,3,1176,Urban,2005,1,Semi furnished,new,0,0.16,260896
+3,2,1580,ruraal,1995,1,Semi-Furnished,New,1,0.15,315431
+1,3,1959,Urban,1985,1,Unfurnished,Good,0,0.26,346290
+3,1,1094,Urban,2023,0,Semi-Furnished,gd,0,0.35,213555
+2,2,1525,sub-urban,2022,1,Semi-Furnished,gd,0,0.24,288298
+1,1,1672,Urban,2021,1,Furnished,Good,1,0.37,296597
+5,1,1777,Rural,1991,1,Semi-Furnished,new,1,0.34,352771
+,1,1571,Urban,1992,1,Semi-Furnished,new,,0.22,305539
+4,2,1353,Rural,1983,0,Unfurnished,Old,0,0.01,254390
+2,2,1169,ruraal,2018,1,Unfurnished,New,1,0.17,246458
+1,3,1534,Rural,1981,1,furnised,new,0,0.51,282897
+4,1,1071,ruraal,2005,0,Furnished,Good,0,0.3,200107
+3,2,331,ruraal,2006,1,Semi-Furnished,new,0,0.15,119186
+2,2,1675,Rural,2006,,Furnished,gd,0,0.29,292525
+3,3,1862,Suburban,1994,1,Semi furnished,New,1,0.35,343426
+1,2,555,urbn,1987,,Semi-Furnished,old,0,0.15,126314
+5,2,1096,Urban,1986,0,Furnished,Old,0,0.44,195207
+2,3,1748,sub-urban,2019,0,furnised,New,1,0.32,338639
+4,2,2323,urbn,1991,0,furnised,gd,1,0.09,398673
+2,1,1508,Urban,1992,1,Semi-Furnished,gd,0,0.38,259719
+3,1,1209,Urban,2022,0,Semi furnished,gd,0,0.19,224250
+3,3,1427,ruraal,1996,0,furnised,gd,1,0.22,278532
+2,1,2050,Urban,1996,,furnised,Good,0,0.1,342530
+,3,1242,sub-urban,2015,1,Semi furnished,Old,0,0.34,243441
+4,2,1180,Urban,2000,1,Furnished,old,0,0.23,223417
+5,4,1307,Rural,1987,0,furnised,gd,0,0.35,236933
+5,3,1119,urbn,1984,0,Unfurnished,gd,1,0.17,241976
+3,,1549,Rural,2005,0,,new,0,0.15,275708
+5,2,2150,sub-urban,1995,1,,Old,0,0.14,359299
+1,3,1629,Urban,2015,,furnised,New,0,0.31,302316
+2,2,1399,sub-urban,2007,1,Furnished,Old,0,0.15,280607
+1,2,1383,ruraal,2008,0,Furnished,Old,0,0.22,249039
+2,2,875,Rural,1991,1,Semi-Furnished,old,0,0.17,177393
+3,3,1853,Rural,2016,0,Unfurnished,Old,0,0.32,317992
+2,,1469,Suburban,2009,0,Furnished,old,0,0.01,265936
+4,3,1428,Urban,2002,1,Semi furnished,gd,0,0.29,262062
+3,2,2777,ruraal,1995,1,Unfurnished,gd,0,0.51,472703
+2,2,1620,Rural,1993,0,,Good,0,0.44,294542
+3,3,1199,Rural,1989,0,Unfurnished,old,0,0.16,215509
+2,1,1329,ruraal,1986,,Semi furnished,old,1,0.32,232495
+4,1,1959,sub-urban,2016,0,furnised,New,0,0.3,353186
+1,2,1545,sub-urban,2008,0,Semi furnished,new,0,0.47,302571
+,1,925,Urban,1982,0,Semi furnished,Old,0,0.13,167083
+4,1,1868,Suburban,1994,0,furnised,New,,0.42,337539
+2,1,1233,Rural,2015,0,furnised,old,0,0.21,216093
+1,1,2249,Suburban,1998,1,furnised,New,1,0.14,393752
+4,1,1932,sub-urban,1992,0,furnised,Good,0,0.13,346404
+4,,1321,sub-urban,2021,1,furnised,new,1,0.06,276465
+4,2,2012,urbn,2000,1,Semi furnished,old,1,0.16,357490
+4,2,1527,Urban,2016,1,Semi-Furnished,old,0,0.09,254232
+1,2,1841,urbn,2006,1,Semi-Furnished,Old,0,0.28,317021
+3,1,1694,urbn,2008,1,Furnished,new,0,0.34,321968
+2,4,1161,urbn,1999,0,Semi-Furnished,Good,0,0.21,204659
+5,3,1243,Urban,2004,1,,gd,0,0.47,233911
+3,1,1912,Urban,1985,1,Semi-Furnished,New,0,0.17,351667
+2,2,1366,ruraal,2015,,Semi furnished,Old,0,0.2,232989
+1,3,1339,Suburban,1981,1,furnised,old,0,0.18,225457
+2,4,1118,Suburban,2001,,furnised,gd,0,0.34,198162
+2,2,1669,ruraal,2011,1,Semi furnished,Good,0,0.35,306095
+4,2,2325,ruraal,1995,0,,new,0,0.32,397380
+3,1,1073,sub-urban,1997,1,Semi-Furnished,New,,0.23,229330
+5,,1510,urbn,1984,,Semi furnished,Old,0,0.05,264710
+3,1,2065,ruraal,2015,1,Furnished,old,1,0.2,383755
+2,4,1468,Rural,2009,0,furnised,old,0,0.47,249825
+4,2,1681,Suburban,1998,1,Unfurnished,gd,0,0.4,305268
+4,2,1075,ruraal,2002,0,Furnished,gd,0,0.29,198898
+3,2,1671,Rural,2013,0,,New,0,0.19,314452
+4,1,1425,Rural,1992,1,Furnished,new,1,0.25,280549
+3,1,1894,Rural,2022,0,Semi furnished,Good,0,0.19,323769
+3,1,1975,sub-urban,2008,1,Semi-Furnished,new,0,0.43,356478
+3,1,2536,sub-urban,2015,0,furnised,new,,0.12,439331
+1,3,1732,Rural,2001,1,,new,0,0.39,314207
+2,2,1630,sub-urban,2015,0,,New,,0.17,309972
+1,1,1578,urbn,1988,0,Unfurnished,New,,0.45,279189
+3,,1359,Rural,2018,0,Furnished,Good,0,0.31,273560
+2,3,1635,urbn,1998,0,Unfurnished,new,0,0.14,309587
+3,4,1382,urbn,2017,0,Semi-Furnished,New,0,0.2,269387
+5,,1567,Rural,1985,0,Semi-Furnished,Good,0,0.36,305703
+2,1,2027,Suburban,1994,1,Unfurnished,old,0,0.18,344957
+3,2,1097,Rural,1999,0,furnised,Good,,0.25,215664
+4,3,1956,Rural,1988,1,Semi-Furnished,new,1,0.17,360427
+2,2,2027,sub-urban,2011,0,Unfurnished,Old,0,0.51,354425
+1,1,1453,Rural,1983,1,Furnished,new,0,0.54,289711
+2,3,651,Suburban,1997,,Unfurnished,Old,0,0.47,142739
+2,1,1257,sub-urban,1984,1,Unfurnished,Good,0,0.23,245968
+5,1,2019,Urban,1999,0,Semi furnished,old,1,0.19,344346
+4,2,1491,Urban,2002,0,Semi-Furnished,old,0,0.13,262188
+3,2,1100,urbn,1990,,furnised,New,0,0.48,234583
+5,2,1298,urbn,2016,0,furnised,old,0,0.39,244069
+4,1,1836,Suburban,2001,0,Semi furnished,gd,1,0.4,330283
+2,3,1719,ruraal,1983,0,,Good,0,0.21,292118
+5,1,1404,Urban,2008,0,furnised,New,1,0.01,284066
+3,1,1353,urbn,2023,0,Unfurnished,old,0,0.02,239935
+4,3,1343,Urban,2013,1,Semi furnished,Good,1,0.26,250488
+5,,1131,Suburban,1992,0,Furnished,new,0,0.17,224399
+2,3,2146,Suburban,2021,1,Semi-Furnished,old,0,0.15,347275
+2,3,1371,ruraal,1988,0,Semi-Furnished,Old,1,0.3,256561
+2,2,1987,ruraal,2021,0,Semi-Furnished,Good,0,0.4,351219
+3,2,2109,sub-urban,2010,,Unfurnished,New,0,0.14,370022
+4,1,1899,Suburban,1986,0,Furnished,new,0,0.05,334629
+5,2,1327,urbn,1983,1,Semi furnished,gd,1,0.15,251657
+1,2,1661,Urban,1998,1,Semi furnished,new,1,0.09,308059
+3,1,1490,Rural,2021,0,Semi-Furnished,old,0,0.34,269746
+3,3,1139,ruraal,2009,,Furnished,Old,0,0.25,210356
+2,2,1630,Rural,2010,0,Furnished,new,1,0.53,309825
+2,1,1028,urbn,2014,1,Furnished,gd,0,0.36,205643
+2,1,1975,ruraal,2000,0,furnised,New,1,0.52,354925
+5,2,1314,Rural,2010,1,furnised,Good,0,0.04,252085
+2,1,1580,urbn,1998,0,Semi-Furnished,Old,,0.24,284611
+3,3,1613,Urban,2010,1,Furnished,gd,1,0.29,295902
+4,2,1396,urbn,2011,1,,old,1,0.27,267755
+3,2,1735,sub-urban,1981,,Furnished,old,0,0.23,301844
+,2,1310,ruraal,1989,,Semi furnished,old,0,0.26,221661
+,3,1849,Suburban,1981,1,Semi furnished,Old,0,0.08,328515
+2,2,962,Urban,1981,1,Semi-Furnished,new,0,0.33,221265
+3,2,1551,Rural,2003,0,,Old,0,0.36,272569
+2,2,2276,ruraal,1996,0,Furnished,old,0,0.07,379088
+2,1,1100,Suburban,2011,0,,gd,1,0.2,217270
+1,3,1229,urbn,1995,0,Semi-Furnished,Good,0,0.21,234756
+3,3,1706,Suburban,1995,0,Semi furnished,Good,0,0.15,305208
+3,2,1572,ruraal,2018,1,Semi furnished,Old,0,0.08,268693
+1,3,1640,ruraal,2010,0,furnised,old,0,0.25,279539
+2,3,1696,sub-urban,2022,1,Semi-Furnished,New,0,0.29,324073
+5,3,1754,sub-urban,2003,0,Semi-Furnished,Old,0,0.16,302450
+2,3,1944,Suburban,1980,0,Furnished,old,1,0.09,323139
+2,2,1664,urbn,1990,1,Furnished,new,0,0.31,322803
+3,2,1403,Suburban,2000,1,furnised,Good,0,0.13,252653
+,2,1769,ruraal,1983,1,Unfurnished,Good,0,0.2,312508
+2,3,2260,ruraal,1986,1,,Good,1,0.18,391685
+4,1,1447,Rural,2005,0,Unfurnished,New,0,0.44,262463
+4,3,1110,sub-urban,1991,1,Unfurnished,old,1,0.14,218750
+2,3,1943,Rural,2010,0,Semi-Furnished,old,0,0.51,337571
+4,1,1452,Urban,1996,0,,old,1,0.36,259523
+3,3,631,ruraal,2012,1,Semi-Furnished,old,0,0.52,138888
+3,1,1839,Rural,1990,0,,New,0,0.35,335055
+3,2,1286,Suburban,2007,0,Semi furnished,gd,0,0.22,219749
+3,3,1464,sub-urban,2011,,Semi-Furnished,Old,0,0.11,253550
+1,1,1633,sub-urban,1980,,Semi-Furnished,Old,0,0.2,283284
+4,3,1576,urbn,2007,0,Semi-Furnished,old,1,0.47,279733
+2,3,1784,Suburban,2021,0,furnised,new,0,0.24,321590
+2,2,1326,urbn,1986,0,Semi-Furnished,Good,1,0.35,257317
+1,1,1705,Rural,1981,0,Furnished,New,1,0.28,307817
+3,1,1396,Urban,2021,,Furnished,new,0,0.29,288592
+4,2,1796,Suburban,2003,0,,new,1,0.29,314655
+1,,1746,Suburban,1983,1,Semi furnished,old,0,0.32,281580
+3,2,1126,Suburban,2023,0,furnised,New,0,0.13,237489
+2,1,1934,urbn,1998,,,Old,,0.21,320060
+3,2,1286,Rural,2005,0,Furnished,Good,0,0.3,229429
+2,2,1823,Suburban,1990,1,furnised,Old,0,0.27,326497
+4,3,1647,Suburban,2019,0,furnised,new,0,0.18,301077
+3,1,2235,sub-urban,2022,1,Semi furnished,Good,0,0.31,398954
+5,3,1411,Urban,1990,0,furnised,gd,,0.13,248746
+2,2,1360,sub-urban,1982,0,Semi-Furnished,new,0,0.07,259225
+2,,1492,sub-urban,1991,,furnised,Old,0,0.29,257086
+2,2,1379,Urban,1982,,Semi furnished,Old,0,0.07,234252
+5,2,1820,Rural,2021,1,,old,0,0.29,339706
+5,4,853,sub-urban,2006,1,Semi furnished,Old,0,0.04,185515
+2,1,1079,Rural,1981,1,Semi furnished,New,0,0.14,210984
+4,4,1073,sub-urban,1995,0,Furnished,new,0,0.2,213366
+4,2,1880,ruraal,1981,0,Semi-Furnished,Good,0,0.01,338162
+3,1,2184,Urban,2009,0,Furnished,Old,1,0.19,366718
+3,2,1458,sub-urban,1999,1,,old,0,0.43,254359
+2,3,1432,ruraal,2017,0,Unfurnished,old,1,0.06,270101
+1,1,1528,urbn,2007,0,,Old,1,0.2,300505
+5,2,1965,ruraal,2004,1,Semi-Furnished,New,1,0.51,363288
+5,2,1129,Suburban,2011,1,furnised,old,1,0.09,234248
+3,2,1595,sub-urban,1989,0,Semi furnished,Good,0,0.46,272076
+2,1,1890,ruraal,2021,0,Unfurnished,new,0,0.21,346511
+2,3,1700,Rural,2019,0,Semi-Furnished,gd,0,0.27,300404
+4,,1576,urbn,2012,0,Furnished,New,0,0.44,312666
+5,,1900,sub-urban,1992,0,Semi furnished,old,1,0.18,346587
+5,3,419,Suburban,2020,1,,new,0,0.34,149844
+4,1,1771,ruraal,2021,1,Furnished,gd,1,0.38,320095
+3,3,1238,urbn,2016,1,Semi-Furnished,Old,0,0.15,234455
+1,1,768,sub-urban,1995,0,Semi-Furnished,Old,1,0.14,165152
+2,1,1704,urbn,2001,1,,Good,0,0.22,299435
+5,2,2049,Suburban,1999,0,Unfurnished,gd,0,0.22,353661
+3,2,1445,ruraal,2022,1,,Old,0,0.09,275440
+1,3,1881,urbn,2006,1,furnised,Old,1,0.15,330046
+2,2,2145,urbn,2020,0,Furnished,old,0,0.27,358916
+4,2,2026,Urban,1995,0,Unfurnished,Good,1,0.2,347403
+1,1,2156,urbn,2013,1,Semi furnished,new,1,0.38,379763
+2,,1797,Urban,2011,0,furnised,Old,1,0,327490
+3,2,1530,ruraal,2005,1,Unfurnished,New,0,0.18,283643
+4,2,859,sub-urban,2004,0,Furnished,New,1,0.62,183739
+4,1,1402,sub-urban,1981,1,Semi-Furnished,new,1,0.25,278991
+2,3,1163,ruraal,1991,0,Semi furnished,gd,0,0.45,217744
+4,2,2368,ruraal,2019,0,,Good,0,0.1,398945
+2,1,1430,Rural,1988,1,Furnished,old,0,0.32,265406
+2,1,1549,ruraal,1991,0,furnised,New,0,0.07,280096
+4,2,1721,urbn,2005,0,furnised,New,0,0.31,292580
+3,2,1517,sub-urban,1988,0,Semi-Furnished,new,,0.38,293682
+4,1,2178,Suburban,1989,0,Semi-Furnished,gd,0,0.34,361418
+4,,1251,sub-urban,2011,0,Semi furnished,gd,0,0.2,227860
+3,1,1578,Urban,2013,0,,new,,0.29,287355
+1,2,1203,sub-urban,1999,,Semi furnished,New,0,0.29,236046
+3,4,972,Rural,2018,0,Semi-Furnished,Good,1,0.35,198858
+2,2,1255,ruraal,1981,1,Semi-Furnished,New,0,0.23,254531
+2,2,1485,ruraal,1980,0,furnised,gd,0,0.39,280401
+,2,1328,sub-urban,2015,0,Semi-Furnished,old,0,0.47,235608
+3,1,1223,Suburban,2003,,Unfurnished,New,0,0.2,229870
+5,,937,Suburban,2006,0,Furnished,Good,0,0.26,181731
+3,2,1467,Rural,1981,,Semi-Furnished,Old,1,0.11,267841
+4,3,898,Urban,2010,0,Semi furnished,New,0,0.3,190736
+3,1,1804,sub-urban,1993,1,,new,1,0.3,331396
+3,1,1533,ruraal,1981,1,,Old,0,0.26,258380
+3,1,917,sub-urban,2008,1,,new,0,0.27,177261
+2,2,1376,Rural,1994,1,Unfurnished,new,0,0.54,255353
+4,2,1199,urbn,1991,1,Semi furnished,new,0,0.18,250894
+2,3,1628,urbn,2016,0,Unfurnished,New,1,0.18,313960
+1,2,2036,Rural,2007,0,Semi-Furnished,gd,,0.2,350085
+3,,750,ruraal,1999,,Furnished,Old,1,0.47,166798
+2,1,1546,Rural,2018,0,,Good,0,0.32,267821
+5,3,1436,ruraal,2003,0,Semi furnished,gd,0,0.32,261768
+,3,1769,Suburban,2000,1,,New,0,0.44,307686
+5,3,1585,Rural,1989,0,Unfurnished,new,1,0.22,301210
+3,3,1199,ruraal,1993,,furnised,Good,0,0.35,226245
+1,3,1372,Rural,2016,1,Semi-Furnished,Old,0,0.17,257033
+5,2,1182,Rural,1997,1,Furnished,gd,0,0.09,238576
+3,1,1930,ruraal,2003,1,Semi-Furnished,old,0,0.52,343060
+,1,1509,ruraal,1993,0,furnised,gd,0,0.31,258061
+,4,2260,Urban,2013,0,Furnished,Good,0,0.35,398627
+5,2,1476,Rural,1991,1,furnised,New,1,0.09,284705
+2,3,1217,urbn,2001,0,Semi-Furnished,Old,1,0.33,210249
+3,2,895,Rural,1985,1,Unfurnished,Good,0,0.52,180362
+5,1,779,Rural,2015,,Semi-Furnished,new,0,0.21,181521
+2,1,866,ruraal,2015,1,Semi-Furnished,Old,0,0.06,167961
+2,2,1607,Rural,2001,0,Semi-Furnished,gd,,0.28,299779
+3,2,1703,sub-urban,1993,,Semi furnished,Good,,0.09,290017
+5,1,868,Rural,1995,1,furnised,gd,1,0.02,181589
+4,2,1858,sub-urban,2015,1,furnised,gd,1,0.14,332253
+3,1,1307,urbn,2004,0,,gd,0,0.18,224960
+1,2,1559,ruraal,2011,,furnised,New,1,0.1,288319
+3,1,2145,Rural,2012,1,,gd,0,0.45,367231
+,3,1859,sub-urban,2015,1,Semi furnished,new,0,0.53,340749
+2,2,1393,sub-urban,1999,1,Unfurnished,new,1,0.34,245935
+3,2,1144,sub-urban,1997,0,,Old,0,0.31,218366
+5,1,639,Suburban,2017,1,Semi-Furnished,old,0,0.23,151517
+4,1,1212,Urban,1982,1,Unfurnished,gd,0,0.12,240215
+4,2,1416,urbn,2002,0,Semi furnished,gd,0,0.49,243083
+4,2,1105,Rural,2011,1,furnised,Good,1,0.24,222222
+3,2,1447,Suburban,1995,,,New,0,0.18,280664
+2,1,1531,Rural,1984,1,Semi-Furnished,old,0,0.4,281925
+4,2,1410,Rural,1983,1,Furnished,Old,0,0.24,268089
+4,3,1240,ruraal,2000,1,Furnished,old,0,0.4,232227
+5,3,1567,ruraal,2019,1,Unfurnished,gd,0,0.19,288490
+5,1,1677,ruraal,1993,0,furnised,Good,0,0.4,279771
+3,2,1064,Suburban,2018,0,Furnished,New,0,0.4,229049
+3,1,2064,Rural,2010,1,Unfurnished,Old,1,0.45,359197
+4,1,1461,Urban,1993,1,Semi furnished,old,,0.14,263289
+3,,1508,urbn,1985,1,Unfurnished,Old,0,0.24,268072
+4,1,1783,ruraal,1991,1,Unfurnished,gd,0,0.54,291903
+4,2,1593,ruraal,1995,0,Unfurnished,Old,0,0.21,270035
+5,2,1881,Rural,1996,1,Semi-Furnished,Good,1,0.37,343089
+2,3,1615,Rural,2002,0,Unfurnished,Old,0,0.59,282364
+3,2,1255,Suburban,1993,1,,new,1,0.03,258668
+1,1,1645,Suburban,1986,1,Unfurnished,Good,1,0.21,308988
+3,2,1043,ruraal,2011,0,Semi-Furnished,old,1,0.25,197618
+1,2,1543,Rural,1994,0,Semi-Furnished,New,1,0.02,287298
+3,1,1487,Urban,2023,1,Semi furnished,New,0,0.18,286438
+3,2,1417,urbn,1996,1,furnised,gd,0,0.1,269685
+2,1,1449,Rural,2020,0,Furnished,gd,,0.38,264209
+3,1,747,Rural,2023,,Furnished,new,0,0.01,154039
+1,2,1281,sub-urban,2013,1,Unfurnished,old,0,0.53,237968
+1,1,1537,Suburban,1984,,Semi furnished,New,0,0.35,289883
+4,2,1564,urbn,2006,1,Unfurnished,New,0,0.09,309570
+3,2,1089,ruraal,2002,1,Furnished,New,1,0.4,233756
+2,3,2006,Rural,2019,1,Semi-Furnished,New,0,0.34,350040
+3,1,1154,ruraal,1993,1,furnised,Old,0,0.24,212836
+4,1,1888,Rural,1994,1,Semi furnished,old,,0.14,331951
+2,1,1671,ruraal,2022,0,Semi-Furnished,Good,1,0.33,315912
+3,2,1242,urbn,2012,1,furnised,Good,0,0.27,243971
+1,3,2210,Suburban,2010,0,Semi furnished,new,0,0.15,386184
+1,1,1023,urbn,2014,0,Semi furnished,Old,0,0.05,205035
+3,4,1868,sub-urban,1996,0,Furnished,New,0,0.12,328194
+3,1,1900,Urban,2007,0,Semi-Furnished,New,0,0.17,343446
+3,2,1232,Suburban,1998,,Semi furnished,gd,0,0.42,237098
+4,3,2057,urbn,2002,0,,gd,1,0.38,366916
+,3,1400,sub-urban,2011,1,Semi furnished,new,0,0.18,278391
+3,3,1615,Urban,2019,1,furnised,New,0,0.19,311989
+2,3,1604,sub-urban,1992,1,Furnished,new,0,0.4,288713
+4,2,1446,Rural,1999,0,Unfurnished,Old,0,0.29,257076
+2,3,1824,Rural,2014,1,Furnished,Good,1,0.29,324508
+3,1,1817,ruraal,1984,1,Unfurnished,New,0,0.14,326655
+1,3,801,Suburban,1988,1,Semi-Furnished,old,0,0.23,151262
+1,2,2022,Rural,2008,1,Semi-Furnished,Old,0,0.25,353550
+,3,835,sub-urban,1985,,Semi furnished,New,,0.24,157798
+4,2,1913,Suburban,2004,1,,old,0,0.36,339123
+4,2,1951,Rural,2010,0,Semi-Furnished,gd,0,0.36,340003
+3,2,1064,ruraal,2001,1,Semi furnished,new,0,0.11,239022
+2,3,1336,urbn,1981,0,Furnished,gd,1,0.17,246754
+2,1,1058,ruraal,1984,1,Semi-Furnished,Good,0,0.15,203651
+2,1,1414,Urban,2006,0,Furnished,gd,0,0.46,265325
+3,1,1377,Rural,2004,0,Furnished,New,0,0.59,261085
+4,1,1812,Urban,1987,1,,old,0,0.18,317148
+4,3,2024,Urban,1980,1,Semi-Furnished,gd,1,0.22,366744
+2,1,2058,sub-urban,1999,0,Furnished,New,1,0.38,368025
+,,1275,Suburban,2023,1,,Good,0,0.14,258003
+4,2,1416,sub-urban,2002,1,,old,0,0.38,241209
+3,1,827,Rural,2011,0,Semi-Furnished,gd,0,0.25,187485
+3,3,1178,Urban,1990,1,,new,0,0.01,217018
+3,2,1886,urbn,2018,0,Semi-Furnished,new,0,0.05,355222
+2,2,2146,Urban,2003,1,Semi-Furnished,old,0,0.2,349035
+3,2,1006,urbn,1990,1,Unfurnished,new,0,0.43,228906
+4,3,1263,sub-urban,2008,0,Furnished,gd,0,0.12,237859
+1,1,1489,sub-urban,2005,1,furnised,gd,,0.17,265101
+2,,1612,Suburban,1995,0,Semi-Furnished,old,1,0.28,306651
+1,,1176,Urban,2014,1,Furnished,gd,1,0,225511
+1,2,1670,ruraal,1999,1,,New,0,0.29,308226
+5,1,1310,sub-urban,1982,1,Semi furnished,Good,,0.02,269147
+4,2,1494,sub-urban,1980,0,Semi-Furnished,new,0,0.34,279255
+3,1,1719,Suburban,1980,0,,New,0,0.13,288790
+1,1,1503,urbn,1996,0,,old,1,0.11,269117
+3,1,1325,Suburban,1981,0,,new,0,0.29,246532
+3,2,1456,Urban,2008,1,,New,0,0.37,282085
+2,3,1465,Rural,1999,1,,gd,0,0.31,269306
+3,3,1352,Rural,1985,1,Semi-Furnished,old,0,0.28,250459
+3,3,1396,urbn,1987,1,furnised,old,0,0.28,236719
+3,2,2139,sub-urban,2008,,Unfurnished,new,0,0.31,372171
+3,2,1724,urbn,2012,1,,gd,1,0.32,321318
+1,2,1382,sub-urban,1982,,,new,0,0.19,251279
+3,,1779,sub-urban,2014,1,Unfurnished,Old,0,0.35,325809
+3,1,1366,Rural,1984,0,Semi-Furnished,New,0,0.13,249479
+3,3,1969,urbn,2006,0,Furnished,Old,0,0.41,338183
+5,2,1648,Suburban,2023,1,Semi furnished,New,,0.37,310950
+4,2,1457,sub-urban,1991,0,Semi furnished,Good,0,0.58,251803
+2,3,1679,ruraal,1999,0,Furnished,old,0,0.33,292455
+1,2,872,ruraal,1999,1,Semi-Furnished,new,0,0.39,177681
+3,3,1049,Suburban,1988,1,Semi furnished,Good,1,0.02,207714
+1,4,1022,ruraal,2018,1,Unfurnished,Good,1,0.39,214403
+3,2,1557,Urban,1983,0,Furnished,old,0,0.43,256077
+5,1,2193,sub-urban,1998,0,furnised,old,0,0.48,374985
+3,2,2393,Suburban,2017,1,Semi-Furnished,New,0,0.27,425154
+3,4,1755,urbn,2006,,Furnished,Old,0,0.2,309970
+3,1,1700,sub-urban,2022,1,Semi furnished,gd,0,0.09,309625
+3,2,780,Suburban,1992,,Semi-Furnished,New,1,0.1,166093
+3,2,1283,Rural,1992,1,Unfurnished,gd,0,0.25,241049
+5,3,1185,urbn,2001,1,Semi-Furnished,Good,1,0.01,241381
+3,1,1252,Rural,2007,0,Semi-Furnished,gd,0,0.13,222497
+,3,1433,sub-urban,2001,1,Unfurnished,Old,0,0.26,249242
+5,4,1311,urbn,2022,1,,New,0,0.26,258789
+2,1,708,ruraal,1998,1,Unfurnished,old,0,0.1,147287
+1,1,1799,Suburban,1987,1,Semi-Furnished,Old,0,0.06,312288
+2,,1071,sub-urban,1987,1,Unfurnished,Old,0,0.09,200333
+1,1,1596,Urban,2021,0,,New,0,0.22,300400
+1,3,2330,urbn,2005,1,Furnished,old,0,0.57,407918
+4,2,1132,urbn,2005,0,Unfurnished,Old,0,0.41,216384
+1,1,488,sub-urban,2002,1,Unfurnished,old,0,0.28,119362
+2,3,1386,sub-urban,2022,0,Semi-Furnished,new,0,0.33,256433
+4,2,1940,Rural,1992,0,Furnished,new,0,0.4,337380
+1,2,2283,ruraal,2007,1,furnised,new,0,0.35,412467
+4,2,1008,Rural,1988,1,furnised,gd,0,0.2,194315
+2,2,1699,Rural,1999,1,Semi furnished,Old,1,0.12,297172
+2,1,1314,ruraal,1998,0,Unfurnished,New,1,0.23,279880
+4,2,1458,Urban,2018,1,Unfurnished,New,0,0.4,297745
+3,,2558,Rural,1991,0,Furnished,gd,0,0.21,425855
+5,1,899,Rural,1994,,,New,0,0.08,178023
+4,2,1601,urbn,2010,,furnised,new,1,0.01,311584
+4,2,1687,ruraal,1993,1,Semi furnished,Old,0,0.23,291949
+2,3,1934,Suburban,1990,0,Furnished,New,0,0.1,352185
+2,1,1539,Urban,2005,1,Unfurnished,New,1,0.18,294159
+4,,1623,Urban,2021,0,furnised,Good,0,0.47,309304
+4,2,1343,ruraal,2006,1,Semi furnished,Good,0,0.24,247663
+,1,1608,sub-urban,1990,0,Semi-Furnished,Good,0,0.14,308047
+3,1,1363,sub-urban,2017,,furnised,Old,0,0.3,250001
+3,1,1749,urbn,2013,0,Semi furnished,new,1,0.54,340993
+4,2,1352,urbn,2022,1,Furnished,old,1,0.23,253999
+2,2,1651,ruraal,1998,1,Semi-Furnished,new,0,0.1,294336
+5,3,1488,urbn,1985,1,Semi furnished,new,0,0.35,257338
+5,2,1950,Urban,2017,0,Semi furnished,Old,0,0.3,348866
+3,1,1479,Urban,2021,,Unfurnished,Old,0,0.26,266930
+4,2,791,Suburban,2007,1,,Good,0,0.22,157774
+4,3,2005,sub-urban,1980,1,furnised,New,0,0.13,370132
+2,1,1138,ruraal,2014,0,Unfurnished,gd,0,0.48,230260
+5,1,1238,Rural,2019,1,Semi-Furnished,gd,0,0.03,253524
+3,1,1262,sub-urban,1987,1,,old,0,0.2,218502
+4,3,2050,Rural,1986,0,Semi furnished,New,0,0.2,372364
+2,2,646,Suburban,1990,0,Unfurnished,old,0,0.38,138940
+5,2,2755,Suburban,2018,1,,Good,0,0.44,481326
+3,3,1922,urbn,1983,0,furnised,old,0,0.22,330527
+1,3,1589,Suburban,2004,0,Semi-Furnished,New,0,0.28,296080
+5,2,1478,Suburban,1991,1,Furnished,New,0,0.29,292700
+1,3,1614,Rural,2005,1,Unfurnished,gd,0,0.41,301819
+2,1,1708,urbn,2017,0,Semi-Furnished,Good,0,0.4,315618
+,1,1758,Suburban,1991,1,Furnished,Old,0,0.17,302220
+,1,1722,sub-urban,2022,0,Unfurnished,old,0,0.32,301176
+3,1,1536,Suburban,2016,0,Semi-Furnished,gd,1,0.31,268462
+3,2,1421,urbn,2003,0,Semi-Furnished,old,0,0.23,248349
+3,4,1439,ruraal,1995,1,,old,0,0.31,267954
+2,1,1422,urbn,1992,0,Unfurnished,Old,0,0.25,257542
+2,1,1954,Rural,2004,0,Semi-Furnished,Good,0,0.27,329305
+4,2,1737,ruraal,1983,1,Semi furnished,New,0,0.05,330173
+4,4,324,sub-urban,1990,1,Unfurnished,new,0,0.11,136531
+4,2,1762,Urban,2011,0,Semi-Furnished,old,0,0.37,297673
+4,2,1578,urbn,1986,1,,new,0,0.07,292041
+1,1,1493,Rural,1990,0,Furnished,Good,0,0.32,260934
+3,1,1345,sub-urban,2007,1,Furnished,new,0,0.24,262401
+1,,1950,ruraal,2020,1,Semi furnished,old,1,0.4,351439
+3,,1879,sub-urban,2002,1,Unfurnished,Old,0,0.35,320477
+3,1,1191,urbn,2002,0,,new,1,0.18,238481
+5,,1663,Suburban,2007,0,Semi-Furnished,Good,1,0.22,303922
+3,2,1111,urbn,2022,0,Semi-Furnished,Good,0,0.05,220966
+2,3,948,Urban,2005,0,Furnished,Old,0,0.23,198065
+2,2,1249,urbn,2004,0,,new,0,0.06,243205
+4,2,1845,ruraal,2008,1,Semi furnished,new,1,0.22,339932
+3,2,1881,ruraal,1998,,Furnished,New,1,0.15,350913
+2,2,1705,urbn,2012,,Furnished,gd,0,0.12,307352
+1,1,1790,ruraal,2015,1,Semi furnished,Good,1,0.43,326772
+4,1,1706,Suburban,1993,1,Unfurnished,New,0,0.06,319550
+1,2,1243,sub-urban,1993,1,Semi-Furnished,Good,0,0.11,231419
+4,3,1673,urbn,2014,0,Unfurnished,New,1,0.15,310646
+4,1,1820,Suburban,2009,1,,gd,1,0.18,313007
+1,2,1802,sub-urban,2007,1,furnised,New,0,0.12,328621
+1,,1976,sub-urban,1996,1,furnised,Good,1,0.2,335175
+,1,1783,Suburban,1982,1,furnised,new,,0.3,317656
+3,2,1641,Rural,1995,0,Semi furnished,Good,1,0.35,303145
+3,2,1928,urbn,2009,0,Furnished,old,1,0.34,323148
+4,3,1489,sub-urban,2008,,Unfurnished,Old,1,0.04,270252
+5,1,1147,sub-urban,1994,0,Semi-Furnished,Old,0,0.31,211705
+,2,1435,ruraal,2004,1,furnised,old,1,0.32,265864
+4,3,1202,sub-urban,2017,,Unfurnished,Old,0,0.15,219087
+3,4,1230,Suburban,2021,1,furnised,Old,1,0.5,244154
+1,2,1442,sub-urban,2017,1,furnised,gd,0,0.41,274541
+4,2,1183,Rural,2002,0,Semi-Furnished,new,0,0.22,233065
+3,2,1377,urbn,2004,0,,new,0,0.16,258292
+3,3,743,urbn,2021,1,,Good,0,0.5,174497
+5,2,1585,sub-urban,1986,1,,old,0,0.25,267043
+2,1,1500,Urban,2001,1,Semi furnished,New,,0.26,292274
+3,4,1173,Urban,1996,0,Furnished,Good,,0.26,224547
+1,2,1764,Suburban,1997,0,Semi furnished,Good,0,0.6,311190
+3,2,1875,Urban,2020,,Unfurnished,Good,,0.22,330351
+1,1,857,Suburban,1989,0,Semi furnished,Good,1,0.25,159650
+2,2,1195,ruraal,1989,1,Unfurnished,new,0,0.13,251124
+2,2,1192,Suburban,1986,0,Unfurnished,New,0,0.19,239587
+3,2,1124,Urban,2017,1,Furnished,Good,1,0.1,219586
+4,1,1832,sub-urban,2006,,Semi-Furnished,new,0,0.13,338788
+3,2,1422,ruraal,2012,1,Furnished,Good,1,0.02,274788
+,,1394,Urban,1980,0,,Old,1,0.38,246470
+3,1,698,Suburban,2023,1,,Good,1,0.27,178418
+2,,1754,Rural,2013,1,Semi furnished,old,0,0.29,306592
+5,2,1004,urbn,1983,1,Unfurnished,old,0,0.24,205961
+2,3,1524,Urban,1996,1,furnised,Good,0,0.26,283343
+,3,1611,Suburban,1983,1,furnised,gd,0,0.49,298016
+1,2,2044,ruraal,2022,1,Unfurnished,Old,0,0.13,361991
+,3,976,Urban,2005,1,Furnished,New,0,0.29,212927
+1,3,292,Urban,1983,0,Semi-Furnished,Good,0,0.29,87752
+5,2,1574,urbn,1980,0,Furnished,New,1,0.42,287032
+3,2,2220,Suburban,1986,0,Unfurnished,Old,0,0.32,371025
+,2,1996,Rural,2009,,Unfurnished,Good,0,0.32,355564
+1,3,1584,ruraal,1988,1,Semi-Furnished,gd,0,0.06,292593
+3,3,1303,Suburban,2014,1,Semi furnished,new,0,0.13,263463
+,3,1823,ruraal,1987,0,Semi furnished,gd,0,0.07,295092
+3,2,1111,Urban,2003,0,Semi-Furnished,gd,1,0.12,217318
+3,3,1691,urbn,1998,1,Semi furnished,new,0,0.31,310267
+4,1,1702,urbn,2015,1,furnised,new,1,0.21,314467
+3,2,1924,sub-urban,2022,0,Semi furnished,old,0,0.31,342238
+3,1,2604,Rural,2006,1,Semi furnished,new,1,0.26,438747
+3,2,1657,urbn,2011,0,Semi furnished,Good,1,0.29,311316
+5,2,1296,Urban,1993,0,furnised,New,,0.45,261492
+1,2,1490,Rural,1997,1,Semi furnished,old,1,0.25,273002
+2,2,792,Suburban,2007,0,,old,1,0.35,166657
+,2,1222,urbn,2008,,furnised,New,1,0.2,256776
+5,2,1336,Rural,1995,0,Semi-Furnished,old,0,0.37,231963
+3,1,1290,Urban,2014,0,Furnished,new,0,0.06,258108
+3,2,1561,sub-urban,2010,0,Semi-Furnished,gd,0,0.03,272172
+2,1,1171,ruraal,1983,1,Furnished,Old,0,0.57,205276
+2,1,1948,ruraal,2016,1,Semi-Furnished,new,0,0.53,358560
+3,2,1500,Urban,1996,1,,gd,0,0.04,274133
+3,2,1496,Urban,2018,0,Furnished,gd,1,0.24,262990
+3,2,1369,ruraal,2005,0,Furnished,old,,0.27,260703
+1,2,1562,sub-urban,2018,1,Unfurnished,Good,0,0.36,283953
+,2,1830,Rural,2020,1,Furnished,Good,0,0.51,333807
+,3,1153,ruraal,1983,1,Furnished,old,,0.09,230802
+4,2,1237,Urban,2009,0,Unfurnished,old,0,0.1,230026
+3,2,1379,urbn,2009,1,Semi furnished,New,1,0.25,288583
+2,1,962,Suburban,2001,,Semi furnished,New,0,0.11,191069
+4,2,1172,sub-urban,1990,0,Unfurnished,Old,0,0.16,228210
+4,2,1310,sub-urban,1981,1,furnised,Old,0,0.22,229641
+2,2,1850,urbn,2023,0,Furnished,Old,1,0.38,323589
+5,2,1605,urbn,1991,,Furnished,Old,0,0.25,264603
+4,2,1577,Urban,2009,1,Unfurnished,gd,0,0.34,291234
+5,2,1840,ruraal,2015,,Unfurnished,gd,0,0.32,330509
+4,3,1445,Rural,1997,1,furnised,New,0,0.1,284018
+3,3,1656,sub-urban,2005,0,,Good,,0.26,280284
+3,3,1459,sub-urban,1986,,Semi furnished,old,1,0.02,267000
+5,,1606,urbn,1980,0,Semi-Furnished,Good,0,0.17,286220
+5,1,1267,ruraal,2005,0,,new,0,0.26,252398
+1,1,524,sub-urban,2002,1,Semi furnished,gd,0,0.25,121473
+1,1,1446,Rural,2005,1,Furnished,Old,1,0.06,245047
+3,2,2069,urbn,1985,,,Old,1,0.09,361615
+4,3,1870,Rural,1985,0,Unfurnished,new,0,0.29,331242
+,1,1886,ruraal,2023,1,furnised,Good,1,0.37,347502
+2,4,1994,sub-urban,1987,1,Semi furnished,Old,0,0.22,340754
+3,1,1535,Suburban,2003,0,furnised,Good,,0.21,278395
+3,4,1579,sub-urban,2001,0,Semi furnished,old,1,0.39,291621
+,2,1253,ruraal,1998,0,,new,1,0.13,231180
+4,1,1374,sub-urban,2016,0,Furnished,Good,1,0.51,272910
+4,2,1746,sub-urban,1997,,Semi-Furnished,old,0,0.05,299679
+3,1,1982,Urban,2010,1,furnised,Good,1,0.41,372771
+3,1,1444,sub-urban,2016,1,furnised,Good,0,0.33,265405
+2,2,1320,sub-urban,2009,,Semi-Furnished,Old,0,0.61,233184
+1,3,1500,Rural,2021,0,furnised,New,0,0.08,282917
+5,2,1740,Suburban,2012,1,furnised,gd,1,0.1,325600
+4,2,922,Rural,1989,1,Semi furnished,Good,0,0.44,183556
+,2,582,Rural,2016,1,Semi furnished,Good,0,0.03,146425
+,3,1280,urbn,1991,0,Semi-Furnished,Good,0,0.34,231529
+3,1,1012,Urban,2009,,Furnished,New,0,0.43,209149
+4,2,1297,Rural,2006,0,,old,0,0.31,258316
+5,1,1441,ruraal,2018,0,,new,1,0.28,285523
+4,1,1319,ruraal,1988,1,furnised,Old,1,0.31,252025
+2,2,2081,sub-urban,2000,0,Furnished,New,0,0.38,352624
+3,1,1631,urbn,1991,1,Semi-Furnished,old,1,0.34,308593
+2,2,1620,Urban,2008,1,Semi-Furnished,Good,1,0.07,312465
+,3,1749,Urban,2012,1,Semi furnished,old,0,0.52,302806
+3,1,1044,sub-urban,2022,0,furnised,New,1,0.26,233667
+2,2,1916,ruraal,1994,0,Unfurnished,New,,0.33,344698
+4,1,1470,Suburban,1981,0,Semi-Furnished,New,0,0.36,272364
+3,,1768,urbn,2018,1,furnised,new,0,0.42,341910
+3,2,1071,sub-urban,2023,0,Furnished,gd,1,0.41,212327
+2,3,878,urbn,1997,0,Semi furnished,Old,0,0.27,164076
+4,2,1827,ruraal,1982,0,,new,0,0.26,327726
+3,1,1651,ruraal,1986,0,Furnished,new,0,0.31,305332
+4,2,1139,Suburban,2022,1,Semi-Furnished,gd,0,0.42,235113
+3,,1152,Suburban,1997,1,Semi-Furnished,new,1,0.08,237890
+5,2,1950,Urban,2023,0,Furnished,New,0,0.35,343802
+3,3,1024,urbn,2017,1,Semi-Furnished,New,0,0.12,242486
+3,3,2157,urbn,2016,1,furnised,old,0,0.53,361084
+5,1,1140,ruraal,2012,1,Semi-Furnished,Good,0,0.31,224151
+3,1,1755,Urban,2023,1,Semi furnished,new,0,0.19,335847
+2,2,1369,sub-urban,2010,1,furnised,Good,0,0.31,269061
+1,2,1741,urbn,1990,1,Unfurnished,Old,1,0.25,305678
+4,3,1282,Urban,1983,0,Semi-Furnished,New,0,0.23,225351
+3,4,1435,Urban,1997,1,Semi-Furnished,old,0,0.02,253947
+4,2,1516,ruraal,1983,1,Semi furnished,Old,0,0.1,277813
+2,1,1099,Urban,2013,0,Semi furnished,old,0,0.23,214025
+2,3,1796,Suburban,2008,0,,gd,0,0,322901
+1,1,1295,Suburban,2003,,Furnished,New,0,0.16,257167
+3,3,1409,Rural,2001,1,Furnished,Old,1,0.18,277151
+3,2,1102,ruraal,1981,1,Furnished,gd,0,0.13,203941
+3,2,475,sub-urban,2023,,Semi furnished,Old,1,0.37,111071
+3,1,1424,Rural,1985,1,Furnished,old,0,0.12,259505
+5,2,2465,Suburban,2021,1,Furnished,gd,,0.26,413665
+2,2,1814,Rural,2004,1,Unfurnished,gd,0,0.2,310491
+3,2,1492,ruraal,2000,1,Furnished,New,1,0.23,303240
+4,1,1395,ruraal,1995,1,Semi-Furnished,Good,0,0.49,260954
+3,3,1509,Urban,2010,1,,old,0,0.28,273835
+3,3,1719,urbn,1993,0,Semi furnished,old,0,0.31,297143
+5,1,1028,Urban,2018,,furnised,gd,1,0.14,208939
+5,1,1946,ruraal,2007,1,,gd,0,0.34,355672
+2,1,1786,Suburban,2011,0,Unfurnished,New,0,0.34,310154
+5,2,1787,sub-urban,2007,1,Semi furnished,Good,1,0.32,311090
+3,2,1675,Suburban,1988,1,Semi furnished,old,0,0.07,284686
+2,2,1508,Urban,2001,0,Semi-Furnished,new,1,0.16,291492
+3,1,1769,sub-urban,2011,1,,new,0,0.47,345803
+,2,1737,ruraal,1984,1,,Good,1,0.15,323241
+3,2,1358,Suburban,2002,1,Furnished,Old,0,0.49,255224
+2,2,1271,ruraal,1984,0,Semi-Furnished,New,0,0.17,241851
+3,,1541,sub-urban,2021,1,Furnished,Good,0,0.27,272225
+2,1,2120,sub-urban,2011,1,Furnished,new,1,0.22,392550
+1,2,1004,Suburban,1989,0,Semi furnished,gd,0,0.12,213860
+2,2,913,ruraal,2018,,,new,0,0.13,193349
+2,2,1566,Rural,1994,1,Furnished,gd,1,0.14,285293
+2,3,1520,ruraal,1986,0,Unfurnished,New,0,0.27,278048
+2,2,1569,sub-urban,2008,1,Unfurnished,gd,1,0.38,300148
+3,,1598,ruraal,1982,1,,Good,,0.26,287417
+2,1,1411,Urban,1998,0,Unfurnished,gd,1,0.24,272550
+2,1,2096,Rural,1989,0,Semi furnished,Old,1,0.43,359065
+5,3,860,urbn,2007,0,Semi-Furnished,Good,0,0.26,173190
+3,2,1169,Urban,2008,0,furnised,New,0,0.17,234440
+4,1,1459,urbn,1994,1,Furnished,Good,1,0.1,269453
+2,1,843,Suburban,2014,1,furnised,Old,0,0.44,191858
+2,1,1430,urbn,1985,0,Semi-Furnished,New,0,0.2,274931
+1,3,2165,ruraal,1991,0,Semi-Furnished,new,1,0.16,374153
+2,1,1508,urbn,2017,0,Semi furnished,Old,0,0.15,262342
+2,2,1592,sub-urban,1992,,Unfurnished,New,1,0.43,305053
+2,1,996,Urban,2008,0,Unfurnished,gd,1,0.16,205033
+1,2,1253,Urban,1998,,Semi-Furnished,Good,1,0.4,242775
+2,1,1350,urbn,1982,1,Semi furnished,New,1,0.22,264179
+3,2,1373,Urban,1987,0,Semi furnished,Good,1,0.07,260102
+2,1,2013,sub-urban,1987,1,,gd,1,0.2,354864
+3,3,1723,Urban,1999,1,Furnished,New,0,0.25,324084
+3,1,1055,urbn,1983,1,Unfurnished,new,0,0.23,222780
+4,2,1599,Rural,2000,,Semi-Furnished,Old,1,0.23,303117
+1,3,1699,Rural,1982,0,,New,1,0.2,308303
+4,2,1956,Suburban,1987,0,furnised,gd,0,0.13,335889
+3,2,2132,Urban,2002,1,Unfurnished,New,0,0.25,368210
+1,2,1094,urbn,1995,0,Furnished,Good,0,0.33,226563
+5,2,1176,Urban,1992,0,Semi furnished,old,0,0.03,195245
+5,2,997,ruraal,1982,0,Semi-Furnished,New,1,0.44,224979
+1,,1406,sub-urban,1988,0,Unfurnished,new,,0.3,264635
+2,2,1687,Urban,1993,1,furnised,New,0,0.26,316034
+4,2,1895,Urban,1992,0,Furnished,Old,0,0.32,321193
+4,3,1470,Rural,1986,1,Furnished,New,0,0.16,278211
+2,2,1372,sub-urban,1994,1,,old,1,0.07,262681
+2,1,1561,urbn,1986,1,Unfurnished,Good,0,0.24,265184
+3,2,1166,Urban,2017,0,furnised,New,0,0.28,226979
+3,,2336,Rural,2013,1,Furnished,new,0,0.08,404749
+3,1,857,Suburban,2020,0,Semi-Furnished,gd,0,0.13,182224
+3,2,1574,sub-urban,2001,1,Furnished,New,0,0.39,296544
+3,1,2309,Rural,2003,1,furnised,New,0,0.27,413331
+4,2,1503,Rural,2016,1,Semi furnished,Old,0,0.02,275498
+1,1,1424,Rural,2023,1,Semi furnished,new,0,0.32,288986
+2,2,1357,Urban,1980,1,,old,0,0.11,237347
+4,3,1428,Urban,1989,0,Unfurnished,gd,1,0.13,264782
+5,2,2049,Suburban,2022,1,furnised,Good,1,0.28,380044
+3,2,615,ruraal,1995,1,,New,1,0.27,167543
+3,3,2113,ruraal,1987,0,Furnished,old,1,0.19,346754
+2,4,930,ruraal,2004,1,Furnished,gd,0,0.17,180289
+3,1,1393,sub-urban,1991,,Semi furnished,Good,0,0.21,251532
+3,2,1328,sub-urban,2004,,,old,0,0.13,237852
+2,1,1735,Suburban,1996,1,Semi furnished,new,1,0.41,325996
+2,,861,sub-urban,2005,1,Semi-Furnished,new,,0.01,198312
+3,4,1685,ruraal,1993,0,Semi furnished,gd,0,0.21,299444
+1,2,2310,ruraal,2020,,Semi-Furnished,Good,0,0.03,399177
+2,3,955,Rural,2015,0,Furnished,new,0,0.39,208156
+2,2,1576,sub-urban,2002,1,,gd,1,0.21,304742
+2,2,1235,Urban,2022,0,Semi-Furnished,new,0,0.09,214290
+2,1,1670,Urban,1985,0,,new,0,0.35,298834
+5,3,1508,Rural,1984,1,,old,0,0.09,259370
+3,1,1243,Rural,2022,,Semi-Furnished,old,0,0.29,235803
+4,3,1695,Rural,2004,0,Unfurnished,new,1,0.42,312629
+4,3,2222,Urban,1997,1,Semi furnished,Old,0,0.28,378659
+3,3,1424,ruraal,1992,0,Semi-Furnished,old,1,0.17,267721
+1,1,1788,Rural,2022,0,Furnished,Good,0,0.06,311770
+3,2,983,Suburban,1993,1,,gd,1,0.41,206878
+3,1,1117,Rural,2007,1,furnised,gd,1,0.39,241688
+4,2,1689,urbn,1997,0,Semi-Furnished,Good,0,0.15,306266
+3,1,2094,Rural,2007,0,Semi furnished,Good,0,0.16,344842
+2,4,1642,Urban,2006,0,,Good,1,0.43,296783
+2,2,1375,sub-urban,2011,0,Unfurnished,Good,0,0.33,257208
+3,2,1500,Rural,1988,,Furnished,New,1,0.02,290328
+3,2,1000,sub-urban,2019,,Unfurnished,gd,1,0.22,203477
+3,2,1742,urbn,2011,0,furnised,New,1,0.22,319302
+3,2,1853,Suburban,1999,1,Semi-Furnished,new,0,0.29,338628
+,2,1319,sub-urban,2007,,,new,0,0.25,243581
+3,4,1312,ruraal,2012,0,Semi-Furnished,gd,0,0.17,255397
+2,2,1606,Rural,1983,1,Semi furnished,new,0,0.28,316387
+2,,1325,urbn,2013,,Semi-Furnished,Good,1,0.18,257497
+2,3,1474,urbn,1982,0,Furnished,New,1,0.76,277376
+2,1,2340,sub-urban,2005,0,furnised,Good,0,0.27,406609
+2,4,1401,Suburban,1987,,Unfurnished,new,1,0.25,277469
+2,1,1357,Urban,1985,1,furnised,old,0,0.53,242995
+2,3,1241,Rural,1995,0,,New,0,0.05,239872
+2,2,1798,urbn,2003,0,Semi-Furnished,Good,,0.23,309405
+5,3,1428,Suburban,2018,1,,gd,,0.11,269647
+1,3,1240,ruraal,2009,1,Unfurnished,Good,0,0.35,240989
+3,3,2029,urbn,1992,1,,old,1,0.18,347149
+3,3,2068,Suburban,1984,,Semi furnished,new,0,0.34,351453
+,2,1260,Urban,2004,0,furnised,New,0,0.33,231740
+2,1,753,Urban,1999,1,Unfurnished,gd,0,0.37,167115
+3,2,1903,urbn,1997,1,Unfurnished,New,1,0.33,351935
+,1,1226,urbn,1997,1,Unfurnished,gd,0,0.22,232664
+5,2,1816,sub-urban,1981,0,Furnished,New,0,0.04,328445
+4,2,712,Rural,1989,,furnised,new,0,0.4,150790
+2,,1857,Suburban,1991,1,,gd,1,0.46,323247
+2,2,1016,urbn,1992,1,Unfurnished,Old,0,0.11,198411
+4,3,1792,Rural,1990,1,furnised,New,0,0.36,309713
+5,1,1506,sub-urban,1998,0,Unfurnished,New,0,0.07,278110
+3,3,1118,Rural,2014,1,Semi furnished,Good,0,0.28,245364
+3,4,1337,urbn,2018,1,Semi furnished,gd,1,0.31,247865
+2,2,1775,Urban,2005,1,Semi furnished,old,0,0.19,308153
+4,2,1542,Suburban,1993,,Semi-Furnished,Old,1,0.26,255871
+2,3,1734,Suburban,2023,1,Unfurnished,new,0,0.38,322563
+2,1,2291,Urban,2003,0,Semi-Furnished,Good,1,0.23,416115
+3,2,874,urbn,2020,1,furnised,Old,0,0.15,184969
+3,2,2147,Suburban,1980,0,Semi-Furnished,gd,0,0.07,357112
+2,1,1542,urbn,2022,0,furnised,Old,0,0.19,297714
+2,2,1140,sub-urban,2001,0,furnised,New,1,0.07,215976
+3,1,968,urbn,2002,1,furnised,New,1,0.19,217339
+2,1,1424,Rural,1998,1,,Good,0,0.18,264049
+3,1,1869,Urban,1997,1,Semi-Furnished,gd,1,0.37,334480
+2,,1449,urbn,1991,1,,gd,0,0.26,273821
+3,2,2104,sub-urban,2007,1,Unfurnished,Old,0,0.63,350380
+3,,920,ruraal,2007,0,Semi-Furnished,Good,0,0.05,187726
+1,2,1495,Urban,2012,1,Unfurnished,gd,0,0.3,278707
+2,2,999,Suburban,1998,0,Unfurnished,old,1,0.18,187940
+2,2,1645,Rural,2007,0,furnised,old,0,0.11,307850
+1,2,1855,Suburban,2016,1,Semi-Furnished,New,0,0.25,339832
+,1,1332,sub-urban,2005,0,Unfurnished,Old,0,0.23,239613
+2,2,458,sub-urban,2014,0,Semi furnished,new,0,0.41,116423
+4,1,1580,Suburban,2013,1,Unfurnished,New,0,0.26,298167
+2,2,1675,Urban,2014,1,Semi furnished,Good,0,0.15,327598
+4,2,1662,Suburban,2019,1,Semi-Furnished,gd,0,0.3,300773
+4,1,1994,urbn,1995,,,New,0,0.22,358487
+3,1,1072,Suburban,2017,1,Semi-Furnished,new,0,0.08,233905
+3,3,1772,Rural,1992,1,,new,0,0.21,322586
+3,2,1977,Rural,2002,0,,old,0,0.28,333054
+2,1,789,ruraal,2001,1,Semi-Furnished,Good,0,0.26,173473
+5,,1628,Rural,1995,1,Unfurnished,New,0,0.3,300987
+4,1,1298,Suburban,2007,1,Furnished,Old,0,0.17,237982
+,2,1467,Rural,2014,1,Unfurnished,New,0,0.3,292449
+2,,1639,Urban,1987,0,Unfurnished,old,0,0.27,282756
+4,1,1305,Rural,2023,0,furnised,new,0,0.27,267682
+5,1,1230,urbn,2001,1,furnised,Good,0,0.25,233981
+2,1,1514,Urban,2000,0,Unfurnished,Good,0,0.58,259128
+1,2,1065,ruraal,2005,1,Semi furnished,Old,1,0.42,178692
+4,1,1066,urbn,2019,0,,Good,0,0.29,190519
+3,2,1772,Suburban,2000,,furnised,old,0,0.13,289340
+4,1,1040,Suburban,2004,,Unfurnished,old,1,0.21,206665
+2,2,1767,Suburban,2020,0,Furnished,old,0,0.49,299537
+4,,1685,urbn,1980,0,Semi furnished,Good,1,0.17,281209
+2,3,810,urbn,1985,1,Semi-Furnished,Good,0,0.23,167391
+2,2,1229,urbn,2002,,Unfurnished,old,,0.22,214132
+2,2,1978,Urban,2002,1,Unfurnished,Good,0,0.31,351931
+4,2,1108,sub-urban,2022,0,,Good,0,0.18,220183
+4,2,1314,Urban,2022,1,Semi furnished,new,1,0.28,274141
+3,2,1685,Suburban,2002,1,furnised,New,0,0.19,287767
+3,1,1813,sub-urban,2011,0,furnised,gd,0,0.45,319804
+5,3,1399,Rural,2009,1,furnised,Good,1,0.15,267636
+3,2,1261,Suburban,1992,0,Semi-Furnished,gd,0,0.4,220534
+4,1,2069,ruraal,2022,0,Semi furnished,gd,0,0.16,338576
+3,2,2196,Urban,1997,0,Semi furnished,new,0,0.12,382913
+3,2,1892,urbn,2002,0,furnised,Good,0,0.14,340041
+3,3,1534,Urban,1994,0,furnised,old,1,0.01,250282
+2,3,1177,urbn,2012,1,,gd,,0.32,220825
+4,3,1168,sub-urban,2000,0,Furnished,Good,0,0.08,221715
+3,1,1709,ruraal,2018,0,Furnished,Old,0,0.2,311399
+2,2,1667,sub-urban,2002,0,Unfurnished,old,0,0.36,287526
+5,2,2061,ruraal,2006,,Unfurnished,Old,0,0.36,369860
+3,1,1760,Urban,2023,1,Semi furnished,Old,1,0.04,302847
+3,1,899,urbn,1997,1,Semi furnished,gd,0,0.3,164281
+5,3,1921,sub-urban,2003,1,Semi-Furnished,Old,0,0.42,344127
+3,1,1101,ruraal,2019,,Semi-Furnished,new,1,0.15,207654
+2,2,1346,Suburban,2021,0,Furnished,new,1,0.33,272915
+5,1,1600,Suburban,1986,1,Unfurnished,gd,0,0.08,284455
+3,1,2298,sub-urban,1999,1,Furnished,Good,0,0.31,385690
+2,1,2744,urbn,2006,1,Furnished,New,0,0.27,468733
+2,,1743,sub-urban,1985,0,Unfurnished,Good,,0.35,290759
+4,3,1427,Urban,2006,1,Semi-Furnished,Good,0,0.34,262267
+3,,1714,ruraal,1988,0,,Good,0,0.05,300074
+3,2,1855,Urban,2010,1,,Good,0,0.27,326288
+5,1,1372,Suburban,2000,1,,old,0,0.47,245151
+4,2,2218,ruraal,2005,0,Unfurnished,New,0,0.08,391441
+2,2,1592,sub-urban,2019,1,furnised,old,1,0.4,311396
+2,3,1699,Urban,1992,0,furnised,Old,1,0.49,297788
+2,1,1766,Rural,2002,1,furnised,Good,,0.03,323700
+4,2,1669,urbn,1999,1,Semi furnished,new,0,0.15,300688
+1,1,1836,urbn,2016,0,Semi-Furnished,gd,1,0.33,317459
+3,2,1253,Rural,2007,0,Semi-Furnished,gd,1,0.12,246083
+4,3,1277,Suburban,1996,,Semi furnished,old,0,0.45,228615
+5,2,1060,ruraal,2007,0,Furnished,old,0,0.41,211895
+2,2,1676,urbn,2020,0,,new,0,0.04,323854
+4,2,1812,Rural,1981,0,furnised,Good,1,0.14,328591
+2,2,1683,sub-urban,2004,1,,New,0,0.37,321624
+4,3,2170,Rural,2020,1,furnised,Old,1,0.36,347446
+2,3,1498,Suburban,1985,0,,gd,0,0.58,271345
+3,,1767,Suburban,1990,0,Furnished,Old,1,0.12,318879
+4,3,1063,Urban,2017,0,,New,0,0.47,205332
+2,2,1345,urbn,1985,0,,old,1,0.11,246038
+2,2,1778,Urban,1990,1,Unfurnished,gd,0,0.33,304473
+4,2,1840,Rural,1993,1,,Old,1,0.38,337075
+4,1,1382,ruraal,1981,0,Unfurnished,old,0,0.2,234140
+3,3,1471,ruraal,2019,0,Semi-Furnished,New,0,0.39,271721
+4,1,893,Suburban,1982,0,Semi furnished,Old,0,0.46,165909
+3,4,1357,ruraal,2014,,,Good,0,0.41,274044
+2,2,1856,ruraal,2012,,Semi-Furnished,old,0,0.56,331047
+2,2,1730,ruraal,2003,1,Unfurnished,New,0,0.39,336426
+2,2,1700,Rural,1998,0,,Old,1,0.17,283669
+5,3,1520,ruraal,1997,0,,Good,0,0.44,259907
+3,2,1503,sub-urban,2003,0,Furnished,Good,0,0.16,284636
+3,2,1236,ruraal,2014,0,Semi-Furnished,New,0,0.26,225798
+3,1,1780,ruraal,1980,1,furnised,new,0,0.37,316483
+5,2,1668,Urban,2015,1,furnised,gd,,0.32,323953
+2,1,1697,Rural,2004,1,Furnished,New,0,0.45,305915
+3,3,1290,Suburban,2022,1,Unfurnished,Good,1,0.62,236890
+3,2,639,Urban,2013,0,furnised,Good,0,0.08,144125
+3,2,1939,urbn,2004,1,furnised,New,0,0.2,334053
+1,1,1308,Rural,1995,0,Semi furnished,new,1,0.3,269773
+5,1,1155,sub-urban,2013,0,Semi-Furnished,gd,0,0.18,212101
+5,3,1777,Rural,2008,1,Unfurnished,Old,0,0.24,302398
+3,1,1343,urbn,1998,0,,New,0,0.37,256544
+4,1,1924,urbn,2002,1,Semi-Furnished,gd,1,0.35,342156
+5,1,1747,urbn,1998,0,Unfurnished,gd,0,0.29,309373
+4,,1773,Suburban,2004,1,furnised,old,0,0.27,317165
+2,3,954,ruraal,1995,1,Semi furnished,Good,0,0.22,190127
+3,2,1985,Rural,1988,0,Semi-Furnished,Old,0,0.46,323936
+3,1,1605,ruraal,1980,1,furnised,New,,0.5,304255
+3,2,1352,ruraal,2021,0,Unfurnished,Good,0,0.4,245266
+4,3,1557,sub-urban,1998,1,Semi-Furnished,old,0,0.08,269659
+5,2,790,urbn,2012,1,,old,1,0.21,174527
+5,1,1663,Suburban,2013,1,Semi-Furnished,Good,0,0.28,282963
+3,1,1088,sub-urban,1995,,furnised,new,0,0.11,221309
+2,1,959,Urban,2023,0,Semi-Furnished,gd,0,0.26,195608
+,2,891,Suburban,2019,1,,New,0,0.25,208868
+4,3,1945,ruraal,1997,1,Semi furnished,New,0,0.41,346346
+2,1,1248,Suburban,2013,,Semi furnished,New,0,0.18,258248
+5,1,2113,urbn,2004,0,furnised,Good,0,0.42,368246
+5,1,1286,Urban,1985,1,Unfurnished,new,0,0.11,249832
+3,,817,urbn,2000,1,furnised,Old,0,0.13,185917
+3,1,1053,Urban,1985,0,Semi furnished,old,0,0.19,196102
+3,3,1994,sub-urban,2011,1,Furnished,Good,0,0.26,346316
+1,2,1438,ruraal,2020,0,Furnished,Old,,0.11,261138
+2,2,1281,Urban,2022,1,Semi-Furnished,old,0,0.32,236360
+4,1,1564,Urban,2018,1,,old,1,0.51,294136
+1,1,1701,Urban,2010,1,Semi-Furnished,new,0,0.35,330557
+2,2,1947,Suburban,2021,1,Furnished,gd,1,0.22,353370
+3,3,2079,sub-urban,1989,1,Semi furnished,New,1,0.09,377751
+3,2,1356,Suburban,2009,0,Semi-Furnished,Old,0,0.02,253378
+5,2,970,ruraal,1997,0,furnised,Good,0,0,201972
+2,1,1335,Urban,2003,1,,Old,0,0.23,241524
+2,,1604,sub-urban,1988,0,furnised,gd,0,0.57,285123
+4,3,1114,sub-urban,2010,0,,New,0,0.16,232323
+3,1,1117,Rural,1994,1,Semi furnished,Old,1,0.36,221850
+2,,1638,ruraal,1983,0,Semi-Furnished,gd,0,0.15,268879
+3,2,1481,sub-urban,2019,0,,Good,0,0.2,280977
+2,2,1513,Urban,1988,1,furnised,new,0,0.11,289979
+2,3,1197,Urban,1988,0,Semi-Furnished,old,0,0.04,223289
+3,3,1408,sub-urban,2005,,Semi-Furnished,Good,1,0.27,252478
+3,2,1130,Suburban,1983,1,furnised,New,1,0.29,234824
+5,1,1856,ruraal,1996,1,Furnished,old,0,0.35,331233
+3,2,1914,Urban,1995,0,,Good,0,0,322494
+3,4,762,sub-urban,1994,1,furnised,Good,0,0.38,157095
+3,1,1128,Urban,2014,1,Semi furnished,Good,1,0.38,237805
+1,2,901,sub-urban,1984,1,Unfurnished,Good,0,0.31,175479
+4,2,1240,ruraal,1984,0,furnised,old,0,0.19,220915
+2,2,1467,sub-urban,1999,1,Semi-Furnished,New,1,0.3,276704
+,2,920,Rural,1994,1,Semi-Furnished,gd,0,0.23,205199
+2,4,1131,sub-urban,1997,1,furnised,Old,1,0.4,226456
+3,1,1098,sub-urban,1981,1,Unfurnished,new,0,0.2,218546
+1,1,1583,ruraal,2008,1,furnised,Old,1,0.27,286826
+,1,1528,sub-urban,1992,1,Unfurnished,Old,0,0.01,260516
+3,3,1211,ruraal,1983,0,Unfurnished,new,0,0.3,232349
+3,2,1571,Rural,2021,1,Semi furnished,old,0,0.14,291701
+1,1,1281,ruraal,1989,0,,New,1,0.33,244052
+4,3,1391,Urban,2010,1,Semi-Furnished,new,0,0.37,271905
+2,3,2169,ruraal,2020,0,Semi-Furnished,New,0,0.16,380876
+5,3,2036,Rural,1987,1,Unfurnished,old,0,0.25,361801
+2,4,980,urbn,1982,0,Semi-Furnished,Old,0,0.28,177233
+2,1,1832,sub-urban,1988,1,Furnished,New,0,0.31,340372
+1,3,1825,ruraal,2009,1,Unfurnished,old,1,0.37,341690
+3,2,1041,sub-urban,1990,0,Semi-Furnished,old,0,0.35,190579
+3,3,1828,Suburban,2014,0,Furnished,gd,0,0.19,316314
+1,3,2115,Urban,2016,0,Semi furnished,new,0,0.49,384877
+4,3,1051,Urban,2021,1,Semi-Furnished,gd,0,0.36,194238
+3,2,1133,Suburban,1992,1,Furnished,Old,0,0.46,217856
+3,1,1907,Suburban,2015,1,furnised,new,0,0.3,333497
+3,2,1609,ruraal,1992,0,,Old,0,0.31,292174
+3,,1721,Suburban,1991,1,furnised,gd,0,0.23,304029
+3,4,1636,urbn,2016,1,Furnished,old,,0.18,292892
+2,1,1656,sub-urban,1989,1,Unfurnished,Old,0,0.4,284158
+2,1,969,sub-urban,1988,1,Unfurnished,new,0,0.29,187323
+5,1,1919,Rural,1986,0,Semi-Furnished,new,1,0.23,359909
+5,3,1968,Suburban,1981,0,furnised,Old,1,0.1,336889
+3,3,1408,Suburban,2002,0,Unfurnished,new,0,0.48,298888
+2,1,1483,urbn,2018,0,Unfurnished,old,0,0.27,258148
+3,2,888,Urban,2019,0,furnised,old,1,0.07,177733
+3,3,1706,Urban,2018,0,Semi furnished,new,0,0.26,305728
+1,3,1729,sub-urban,2000,0,Unfurnished,Old,0,0.22,297788
+2,2,1475,sub-urban,2002,,,gd,0,0.21,282602
+4,2,1950,ruraal,2008,1,Furnished,new,0,0.34,364401
+4,2,1366,urbn,1993,1,Semi-Furnished,new,0,0.22,248654
+1,1,1726,Rural,2005,1,Unfurnished,new,1,0.2,339141
+2,2,1092,Rural,1984,0,,new,0,0.45,222628
+2,2,1491,urbn,2010,1,,Old,0,0.01,275664
+4,3,1430,Rural,2004,0,Unfurnished,gd,0,0.24,253658
+1,2,1590,Urban,2010,1,Semi furnished,gd,0,0.39,284601
+2,3,1352,Rural,1999,0,Furnished,New,1,0.34,266171
+4,1,1447,Rural,2023,,Semi-Furnished,new,0,0.4,271318
+2,2,1830,urbn,1996,0,Unfurnished,new,1,0.55,349026
+4,1,1325,urbn,1981,0,Semi-Furnished,New,0,0.5,244190
+2,1,857,Rural,2004,,furnised,gd,0,0.08,155082
+1,3,2200,Suburban,1992,0,,Good,1,0.01,367585
+2,,2053,urbn,2018,1,,old,0,0.3,344370
+4,1,983,ruraal,2007,1,Unfurnished,Good,0,0.05,196417
+5,2,1776,ruraal,2021,1,Unfurnished,gd,1,0.04,329961
+4,3,1299,Urban,1985,,furnised,new,0,0.3,247588
+3,1,1605,Rural,1982,,Semi furnished,Good,1,0.34,293959
+4,2,1618,Suburban,2014,0,Unfurnished,Old,,0.51,283177
+2,3,1406,Urban,1997,1,,Old,0,0.37,253331
+2,2,1186,Rural,1990,1,Semi-Furnished,New,0,0.54,253619
+5,1,1224,urbn,1999,1,Furnished,gd,0,0.3,245654
+1,2,1134,ruraal,1984,0,Semi-Furnished,gd,0,0.08,216183
+1,3,1167,sub-urban,1998,1,Semi furnished,Good,1,0.37,241017
+2,2,1473,Suburban,2001,,Furnished,new,1,0.45,264088
+1,1,1214,sub-urban,1998,,Semi-Furnished,gd,0,0.31,218675
+2,3,1773,ruraal,1995,1,Semi-Furnished,Good,0,0.47,310828
+3,1,2095,sub-urban,2003,0,furnised,Good,0,0.23,351942
+3,3,1268,urbn,2020,0,Semi furnished,old,0,0.33,218943
+5,1,1596,Rural,1983,1,,old,1,0.22,292405
+4,,1700,urbn,1994,1,furnised,gd,0,0.61,317857
+2,2,1689,sub-urban,2004,1,Furnished,Good,1,0.38,311222
+2,2,1530,urbn,2023,0,,New,0,0.08,295782
+3,1,1797,ruraal,2014,1,furnised,New,1,0.53,339125
+3,2,1693,Suburban,1993,1,Semi furnished,old,0,0.14,293334
+2,3,1005,urbn,1998,,Unfurnished,gd,0,0.25,204742
+3,,1848,ruraal,2017,1,Unfurnished,new,0,0.32,326518
+3,2,1855,Suburban,2015,0,Furnished,New,1,0.33,324816
+3,2,1195,Rural,1986,1,Unfurnished,New,0,0.32,222227
+3,3,1515,sub-urban,2009,0,furnised,old,0,0.08,277786
+2,3,1773,Rural,1998,,Furnished,old,0,0.32,306622
+5,2,1416,Urban,2004,0,,gd,0,0.42,262165
+4,2,1929,ruraal,1995,1,Semi furnished,old,0,0.41,350319
+2,2,2446,Suburban,2019,0,Furnished,Old,,0.05,399267
+5,2,1186,urbn,1987,1,,Good,0,0.15,237542
+3,1,948,Rural,1997,1,Furnished,New,0,0.09,197837
+5,2,1622,Suburban,2007,1,Semi-Furnished,Old,0,0.3,284416
+4,2,1789,ruraal,1995,0,Semi-Furnished,new,0,0.02,323362
+3,3,1408,Urban,1998,0,Furnished,Old,0,0.08,253377
+1,1,2081,Rural,2021,0,Unfurnished,gd,0,0.15,359445
+2,2,965,sub-urban,1996,1,Semi-Furnished,new,0,0.02,210253
+3,2,1777,Suburban,1992,0,Semi furnished,new,0,0.25,321002
+3,2,1258,sub-urban,1986,1,,old,1,0.07,236107
+2,1,2188,Suburban,2006,1,furnised,Old,0,0.32,370437
+2,2,2297,Suburban,1989,1,Semi-Furnished,gd,,0.19,394933
+4,2,1193,ruraal,2013,1,Furnished,New,0,0.16,228183
+,2,1280,ruraal,2015,1,Unfurnished,old,0,0.18,229455
+3,2,1844,ruraal,2004,0,furnised,Old,0,0.24,313925
+2,2,1345,urbn,1985,1,,New,0,0.34,264399
+2,3,1482,Suburban,2003,1,,Old,,0.45,289529
+1,1,1510,Rural,1997,0,Semi-Furnished,old,1,0.4,271507
+5,3,732,sub-urban,2002,1,,New,0,0.58,152658
+2,2,1494,ruraal,1985,1,,old,0,0.35,258398
+3,1,1224,ruraal,2008,1,Unfurnished,Old,0,0.27,236989
+2,1,1303,sub-urban,2004,0,Unfurnished,new,0,0.18,241747
+3,2,2077,sub-urban,1996,1,Unfurnished,Good,0,0.19,347893
+4,3,997,Suburban,2003,0,Furnished,new,1,0.33,218887
+4,3,1825,ruraal,1990,0,,old,,0.1,316599
+2,3,1388,sub-urban,2005,,,old,,0.28,234675
+1,2,1388,urbn,2013,1,,old,1,0.25,254050
+2,2,1816,urbn,2007,1,Semi furnished,New,0,0.14,346447
+5,1,1636,ruraal,1982,0,Unfurnished,gd,0,0.09,295528
+5,2,1728,sub-urban,1990,1,furnised,old,0,0.63,290426
+3,2,1887,Suburban,2017,1,Semi-Furnished,new,0,0.04,326761
+3,1,1367,Suburban,1993,0,furnised,Good,0,0.24,251535
+4,1,1255,Suburban,2005,1,Furnished,old,1,0.43,238489
+2,2,1066,Urban,2000,0,Furnished,old,1,0.33,208917
+5,3,1170,ruraal,2018,1,,old,1,0.18,237647
+3,,2680,Suburban,2009,1,furnised,New,1,0.07,461437
+3,4,1998,urbn,1987,0,,old,,0.27,332979
+3,2,960,sub-urban,1999,0,Semi furnished,new,0,0.15,190009
+1,2,971,Rural,2011,0,Furnished,Old,1,0.28,186418
+2,2,1693,Rural,2001,0,Furnished,gd,0,0.26,304998
+4,3,1719,Suburban,1986,1,furnised,old,0,0.41,301691
+1,1,1720,Rural,1988,1,Furnished,New,,0.08,300171
+3,2,1398,Rural,1980,0,Semi furnished,new,1,0.2,275151
+2,3,1450,Urban,2008,0,Semi furnished,old,0,0.32,255799
+3,2,1631,urbn,1987,1,Semi furnished,New,0,0.28,309962
+2,2,1534,urbn,1983,1,Semi-Furnished,Old,0,0.05,261753
+3,2,612,Urban,2014,0,Semi furnished,Good,0,0.15,130543
+4,1,1408,Urban,1982,0,Semi furnished,old,1,0.46,257317
+2,2,1159,Rural,2019,1,Semi-Furnished,new,0,0.29,226885
+3,2,1570,ruraal,1986,0,,New,0,0,285151
+3,1,2694,sub-urban,2006,0,Unfurnished,New,0,0.38,448399
+4,1,1647,sub-urban,1980,1,Furnished,old,0,0.01,284336
+5,3,1375,Rural,2006,1,Semi furnished,New,0,0.2,267331
+4,1,1869,sub-urban,1995,1,Furnished,Good,1,0.33,336703
+2,2,1693,Urban,2017,1,furnised,New,0,0.43,313903
+1,1,1668,urbn,1986,1,Furnished,gd,0,0.1,300934
+2,4,1743,sub-urban,2023,0,,gd,0,0.36,312728
+3,1,2323,Rural,2002,0,Semi-Furnished,New,0,0.38,403156
+1,2,1048,ruraal,2020,0,Furnished,old,1,0.17,202141
+3,3,1689,Rural,1990,0,Furnished,gd,0,0.26,307232
+3,3,1129,Suburban,2021,1,Furnished,new,1,0.21,244613
+2,1,1722,Rural,2012,1,Unfurnished,gd,0,0.16,300539
+4,3,1133,Urban,2015,,Unfurnished,New,0,0.42,234639
+2,2,1333,urbn,2016,1,furnised,old,0,0.17,257105
+1,2,1382,urbn,2020,0,Semi-Furnished,Old,0,0.2,250684
+4,1,1890,sub-urban,1996,0,Furnished,old,1,0.29,329749
+3,1,1867,Urban,2014,1,Furnished,old,0,0.2,307461
+4,3,1002,Suburban,1984,1,Furnished,old,0,0.18,183866
+3,2,1522,Urban,2011,1,Furnished,new,0,0.31,299137
+2,2,1216,Rural,1982,1,Unfurnished,Good,0,0.03,221174
+4,3,997,Urban,2014,1,,New,1,0.42,217952
+4,3,1413,Urban,1993,1,,Good,0,0.22,252164
+4,1,1377,Suburban,2010,0,furnised,Old,0,0.1,251058
+2,2,2471,Rural,2010,1,Semi furnished,Good,,0.08,426787
+3,1,1673,ruraal,1996,1,Semi-Furnished,New,0,0.26,314555
+3,3,949,ruraal,2003,0,,New,0,0.2,186756
+1,2,1274,urbn,2002,1,Furnished,Old,0,0.02,237767
+5,,1909,sub-urban,1997,0,,New,1,0.16,363716
+2,1,2335,Urban,1993,,furnised,Old,1,0.13,403535
+,1,866,urbn,1994,0,Semi furnished,Old,0,0.44,169833
+3,1,748,Suburban,1994,1,,New,0,0.27,151890
