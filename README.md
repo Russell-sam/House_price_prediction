@@ -1,5 +1,5 @@
 ## 🧹 Data Cleaning Summary
-
+https://dev.to/sudoruss/balancing-type-i-and-type-ii-errors-a-medical-perspective-e5j
 We performed the following steps to clean the dataset before training a machine learning model:
 
 ### 1. Standardized Column Names
@@ -73,5 +73,5 @@ plt.xlabel("Actual Prices")
 plt.ylabel("Predicted Prices")
 plt.title("Actual vs Predicted House Prices")
 plt.show(
-https://dev.to/sudoruss/balancing-type-i-and-type-ii-errors-a-medical-perspective-e5j
+
 
